@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 10px;
+  }
+  
+  .features, .how-it-works, .testimonials, .contact {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #FF9800;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .cta-button:hover {
+    background-color: #FFB74D;
+  }
+  
+  .testimonial {
+    margin-bottom: 30px;
+  }
+  
+  blockquote {
+    font-style: italic;
+    margin: 0;
+  }
+  
+  cite {
+    font-weight: bold;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  input {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    height: 33px;
+  }
