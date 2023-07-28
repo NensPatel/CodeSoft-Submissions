@@ -1,0 +1,1 @@
+A simple calculator is made using HTML, CSS and JAVASCRIPT. Some of logic are used in JS also error handling. It'll be easy to understand separately all the files if you are a beginner and started your journer as web developer.
